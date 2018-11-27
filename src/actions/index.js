@@ -4,7 +4,7 @@ export const FETCH_POSTS = 'fetch_posts';
 export const FETCH_POST = 'fetch_post';
 export const DELETE_POST = 'delete_post';
 export const CREATE_POSTS = 'create_post';
-const API_URL = 'http://reduxblog.herokuapp.com/api';
+const API_URL = 'https://reduxblog.herokuapp.com/api';
 const API_KEY = 'stepanushariara1234';
 
 export function fetchPosts() {
